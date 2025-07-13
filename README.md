@@ -2,8 +2,8 @@
 
 ## 🔍 Description
 A deep learning project for classifying toxic comments using a CNN model and deploying with Streamlit.
-##streamlit link :- 
-
+ 
+## streamlit :-
 ## 📂 Features
 - Single comment and CSV batch input
 - Toxicity classification into 6 labels
