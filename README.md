@@ -6,7 +6,7 @@ A deep learning project for classifying toxic comments using a CNN model and dep
 ## streamlit :- https://ai-toxic-comment-classifier.streamlit.app
 ## 📂 Features
 - Single comment and CSV batch input
-- Toxicity classification into 6 labels
+- Toxicity classification into labels
 - Simple CNN trained on dummy data (replaceable with real dataset)
 - Streamlit web app interface
 
@@ -25,6 +25,7 @@ A deep learning project for classifying toxic comments using a CNN model and dep
    ```
 
 ## ✅ Labels
-- toxic, severe_toxic, obscene, threat, insult, identity_hate
+1.Toxic Comment(- toxic, severe_toxic, obscene, threat, insult, identity_hate)
+2.Clean Comment
 
 ## 📝 Author: Venkadesh
